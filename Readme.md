@@ -4,7 +4,7 @@
 ---
 
 Colocoque o script no seu site:
- --> <script src="Caminho/floating_button.js"></script><br>
+ --> <script src="Caminho/floating_button.js"></script><hr>
  --> Insira o Script floating_button.js
 
 ---
