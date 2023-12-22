@@ -13,3 +13,6 @@ Colocoque o script no seu site:
  --> se for usar cdn colocar o script no header da aplicação.
 
 ## OBSERVAÇÃO NÃO ESQUECER DE ALTERAR O NUMERO EM SEU_NUMERO_DE_TELEFONE
+
+---
+Exemplo LINKCDN: <script src="https://cdn.jsdelivr.net/gh/meu_usuario/meu_repositorio/floating_button_Numero-Cliente.js"></script>
