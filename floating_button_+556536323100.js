@@ -1,6 +1,6 @@
 (function () {
     var floatingButton = document.createElement('a');
-    floatingButton.href = 'https://api.whatsapp.com/send?phone=+556536323100';
+    floatingButton.href = 'https://api.whatsapp.com/send?phone=556536323100';
     floatingButton.target = '_blank';
     floatingButton.className = 'floating-button';
 

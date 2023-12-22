@@ -15,4 +15,6 @@ Colocoque o script no seu site:
 ## OBSERVAÇÃO NÃO ESQUECER DE ALTERAR O NUMERO EM SEU_NUMERO_DE_TELEFONE
 
 ---
-Exemplo LINKCDN: <script src="https://cdn.jsdelivr.net/gh/meu_usuario/meu_repositorio/floating_button_Numero-Cliente.js"></script>
+Exemplo LINKCDN: <script src="https://cdn.jsdelivr.net/gh/meu_usuario/meu_repositorio/floating_button_Numero-Cliente.js" defer></script>
+
+Deve ser colocado na tag header do site
