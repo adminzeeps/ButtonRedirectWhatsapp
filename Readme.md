@@ -3,7 +3,8 @@
 ## Dicas para Implmentar script
 ---
 
-Colocoque o script no seu site:</br>
+Colocoque o script no seu site:
+</br>
  --> <script src="Caminho/floating_button.js"></script></br>
  --> Insira o Script floating_button.js
 
