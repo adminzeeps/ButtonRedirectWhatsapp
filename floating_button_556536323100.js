@@ -36,6 +36,7 @@
         text-align: center;
         line-height: 50px;
         font-size: 20px;
+        z-index:998;
       }
       
       .floating-button i {
